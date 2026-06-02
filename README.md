@@ -1,13 +1,13 @@
 # First PR Demo
 
-This is a sampl project for learning how to open pull requets with GitHub.
+This is a sample project for learning how to open pull requests with GitHub.
 
-## Getting Startd
+## Getting Started
 
-Clone the repo and run the folowing command:
+Clone the repo and run the following command:
 
 ```
-npm instal
+npm install
 ```
 
 Then start the app:
@@ -16,6 +16,6 @@ Then start the app:
 npm start
 ```
 
-## Contributig
+## Contributing
 
-Pull requests are welcom. Please open an issue first to disscuss what you would like to change.
+Pull requests are welcome. Please open an issue first to discuss what you would like to change.
